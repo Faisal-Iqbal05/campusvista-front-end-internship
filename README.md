@@ -1,2 +1,5 @@
-# campusvista-front-end-internship
-A responsive student campus hub website built with HTML5, CSS3, and Vanilla JavaScript, developed for a Full-Stack Development Internship and demonstrating Task 1 (Basic HTML Web Page), Task 3 (Navigation Menu), and Task 6 (Image Slider).
+# CampusVista – Student Campus Hub
+
+This repository contains the `CampusVista` front-end internship project.
+
+Open `CampusVista/index.html` in a browser to view the website. Full project details, task mapping and testing notes are available in `CampusVista/README.md`.
